@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clustpartners2/static/css/main.53805abe.css",
-    "main.js": "/clustpartners2/static/js/main.1e96cf46.js",
+    "main.js": "/clustpartners2/static/js/main.565fb1e3.js",
     "static/js/5011.09da2b5b.chunk.js": "/clustpartners2/static/js/5011.09da2b5b.chunk.js",
     "static/js/9720.ff779f80.chunk.js": "/clustpartners2/static/js/9720.ff779f80.chunk.js",
     "static/js/7162.53bd554e.chunk.js": "/clustpartners2/static/js/7162.53bd554e.chunk.js",
@@ -248,7 +248,7 @@
     "static/media/select.svg": "/clustpartners2/static/media/select.a12df6f5c3827a26eb463cea3eef5aee.svg",
     "static/media/circle.svg": "/clustpartners2/static/media/circle.c7db43d04d2539697e03f4c02f0dbb39.svg",
     "main.53805abe.css.map": "/clustpartners2/static/css/main.53805abe.css.map",
-    "main.1e96cf46.js.map": "/clustpartners2/static/js/main.1e96cf46.js.map",
+    "main.565fb1e3.js.map": "/clustpartners2/static/js/main.565fb1e3.js.map",
     "5011.09da2b5b.chunk.js.map": "/clustpartners2/static/js/5011.09da2b5b.chunk.js.map",
     "9720.ff779f80.chunk.js.map": "/clustpartners2/static/js/9720.ff779f80.chunk.js.map",
     "7162.53bd554e.chunk.js.map": "/clustpartners2/static/js/7162.53bd554e.chunk.js.map",
@@ -349,6 +349,6 @@
   },
   "entrypoints": [
     "static/css/main.53805abe.css",
-    "static/js/main.1e96cf46.js"
+    "static/js/main.565fb1e3.js"
   ]
 }
