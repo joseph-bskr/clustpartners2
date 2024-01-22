@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_doar_main=self.webpackChunk_doar_main||[]).push([[8044],{58044:function(n,s,e){e.r(s);var r=e(36414),a=e(46611),u=e(23618),c=e(36875),i=e(49797);s.default=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(c.Z,{}),(0,i.jsxs)(r.Z,{children:[(0,i.jsx)(a.Z,{}),(0,i.jsx)(u.Z,{})]})]})}}}]);
-//# sourceMappingURL=8044.a7c1d40f.chunk.js.map
